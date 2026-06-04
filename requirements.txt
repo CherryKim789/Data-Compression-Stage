@@ -5,3 +5,4 @@ pandas
 scikit-image
 zstandard
 pydub
+audioop-lts; python_version >= "3.13"
