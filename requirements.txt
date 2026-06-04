@@ -1,0 +1,7 @@
+streamlit
+pillow
+numpy
+pandas
+scikit-image
+zstandard
+pydub
